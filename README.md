@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="230">
 
-**This project was created for the coders who are new to open source and want to contribute.**
+**This project is created for the coders who are new to open source and want to contribute.**
 
 ## Welcome to the project 
 
