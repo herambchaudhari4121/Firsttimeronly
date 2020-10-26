@@ -30,7 +30,7 @@
 
 ### What is Hacktoberfest ?
 
-Hacktoberfest® is open to everyone global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+Hacktoberfest® is an open to everyone global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 Hacktoberfest is a celebration open to everyone in our global community.
 Pull requests can be made in any GitHub-hosted repositories/projects.
@@ -52,10 +52,10 @@ Try out your skills here.
 ### Contribution to open source is ❤️
 
 When I started to contribute to open source it was difficult to find the projects where i can put my skills to contribute.
-Many freshers feel the same before contributing to open source.
+Many freshers feel thah the same before contributing to open source.
 I have created this sample repo where I am happy to merge your simple logic it doesn't matter if its ruby, C, C++, C#, java.
 I am happy to merge even if its simple hello world.
 
 ### Start contributing Today.
-
+## HAPPY CODEING
 ## Happy Learning
